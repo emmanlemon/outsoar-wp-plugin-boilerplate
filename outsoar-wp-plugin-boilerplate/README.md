@@ -1,0 +1,1 @@
+# outsoar-wp-plugin-boilerplate
